@@ -1,0 +1,40 @@
+.text_images_and_result
+{
+    background-color: white;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+    box-shadow: 5px 5px 18px  gray;
+    height: 500px;
+    width: 450px;
+    border-radius: 20px;
+}
+.text_images_and_result img
+{
+    border: 3px solid white;
+    border-radius: 20px;
+    height: 250px;
+    width: 265px;
+}
+.bob3
+{
+    background-color: #D2C3C3;
+    border-radius: 20px;
+    height: 100px;
+    width: 350px;
+}
+.text_images_and_result b
+{
+    color: mediumslateblue;
+}
+.copy_right_footer
+{
+    width: 100%;
+    background: #D2C3C3;
+    position: fixed;
+    bottom: 0px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 20px;
+    color: grey;
+}
